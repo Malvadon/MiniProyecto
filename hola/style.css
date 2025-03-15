@@ -1,0 +1,66 @@
+
+#titulo {
+    color: tomato;
+}
+
+p.especial{
+    color:mediumspringgreen;
+}
+
+p.texto{
+    color: slateblue;
+}
+
+div p{
+
+    color:aquamarine;
+}
+
+div h2, div h3{
+
+    color:brown;
+
+}
+
+* {
+    font-size: 24px;
+    color:black;
+}
+
+/*
+.color{
+
+    color: #ff0000;
+
+}
+*/
+
+/*
+.color{
+
+    color: rgb(0, 255 , 255)
+
+}
+*/
+
+.color{
+
+    /*border: 5px red outset;*/
+    border-style: solid;
+    border-color: chartreuse;
+    border-radius: 10px;
+    border-width: 10px;
+
+}
+
+#fondo{
+
+    /*opacity: 0.3;*/
+    height: 200px;
+    background: #f00 url('portal.png') repeat-y center bottom;
+    background-size: 100px 100px;
+    
+}
+
+/* esto es un comentario*/
+
